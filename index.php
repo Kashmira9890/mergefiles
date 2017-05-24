@@ -46,8 +46,7 @@ $strsectionname  = get_string('sectionname', 'format_'.$course->format);
 $strsize		 = get_string('size');
 $strsizeb		 = get_string('sizeb');
 
-//$pluginname		 = "Merge PDF files";
-$pluginname		 =  get_string('pluginname','pdf_merge');
+$pluginname		 = "Merge PDF files";
 
 $PAGE->set_url('/course/pdf_merge/index.php', array('id' => $course->id));
 $PAGE->set_title($course->shortname.' | '.$pluginname);
