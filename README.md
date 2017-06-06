@@ -9,6 +9,8 @@ This plugin requires 2 tools:<br>
 The module is created and is currently being worked upon at IIT, Bombay (India). <br>
 
 How to use?<br>
+This folder is to be added under moodle/report directory.
+
 After applying this patch to moodle:
  * Go to a particular course
  * Click on settings icon
@@ -25,3 +27,4 @@ Work in progress:<br>
 The following functionality is being incorporated into this plugin wherein:
 * user can shufffle the listed pdf files
 * user can select only a few/all pdf files
+* a list of previously merged pdf documents will be displayed to the user
