@@ -3,8 +3,8 @@ Moodle Plugin for merging pdf files in a course<br>
 
 The ‘Merge PDF Files’ plugin offers users a convenient way by which they can merge the PDF documents in a Moodle course. <br>
 This plugin requires two external tools:<br>
- * PDFtk (short for PDF Toolkit) is a cross-platform tool for manipulating Portable Document Format (PDF) documents. It comes in three flavors: PDFtk Free, PDFtk Pro, and a command-line tool PDFtk Server.<br>
- * LaTeX – A document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.<br>
+ * <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">PDFtk</a> (short for PDF Toolkit) is a cross-platform tool for manipulating Portable Document Format (PDF) documents.<br>
+ * <a href="https://www.latex-project.org/get/">LaTeX</a> – A document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.<br>
 
 The module is created and is currently being worked upon at IIT, Bombay (India). <br>
 
