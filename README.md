@@ -6,10 +6,10 @@ This plugin requires two external tools:<br>
  * <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">PDFtk</a> (short for PDF Toolkit) is a cross-platform tool for manipulating Portable Document Format (PDF) documents.<br>
  * <a href="https://www.latex-project.org/get/">LaTeX</a> – A document preparation system for high-quality typesetting. It is most often used for medium-to-large technical or scientific documents but it can be used for almost any form of publishing.<br>
 
-The module is created and is currently being worked upon at IIT, Bombay (India). <br>
+The module is created and is currently being worked upon at IIT, Bombay (India).
 
 ## How to use?
-This folder is to be added under moodle/report directory.
+This folder is to be added under moodle/report directory.<br>
 Also, the folder contains a patch file which needs to be applied.
 
 After adding this plugin to moodle:
