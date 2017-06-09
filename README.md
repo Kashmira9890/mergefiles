@@ -1,4 +1,4 @@
-## 'mergefiles' - A plugin to merge PDF files in a moodle course
+## 'moodle-report_mergefiles' - A plugin to merge PDF files in a moodle course
 Moodle Plugin for merging pdf files in a course<br>
 
 The ‘Merge PDF Files’ plugin offers users a convenient way by which they can merge the PDF documents in a Moodle course. <br>
@@ -9,8 +9,8 @@ This plugin requires two external tools:<br>
 The module is created and is currently being worked upon at IIT, Bombay (India).
 
 ## How to use?
-This folder is to be added under moodle/report directory.<br>
-Also, the folder contains a patch file which needs to be applied.
+* This folder is to be added under moodle/report directory.<br>
+* Also, the folder contains a patch file which needs to be applied.
 
 After adding this plugin to moodle:
  * Go to a particular course
